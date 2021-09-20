@@ -11,15 +11,14 @@ Ivy Mureithi.
 
 
 ## Setup/Installation Requirements
-* 1.Modern Browser
-* 2.PC or any electronic device with internet connection
-* 3.you can click  on the  link,  https://lamechy.github.io/mobile-pizza    to have  a look  at the  project.
+ 1. Modern Browser
+ 2. PC or any electronic device with internet connection
+ 3. you can click  on the  [link](https://MureithiIvy.github.io/yum-pizza) to have  a look  at the  project.
 ## Installation Guide.
 To start using this project use the following commands:
 **Depending  on  your  text editor,choose either atom or  code!**
-- `git clone https://github.com/lamechy/mobile-pizza.git`
-- `cd mobile-pizza`
-- `atom .`
+- `git clone https://github.com/MureithiIvy/yum-pizza.git`
+- `cd yum-pizza`
 - `code .`
 ## Dependencies
 **For  the  web app to  work  efficiently  it  greatly depends  on the  search engine  used, preferably Chrome.**
