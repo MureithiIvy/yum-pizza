@@ -1,0 +1,43 @@
+    body {
+        font-family: 'Handlee', cursive;
+        font-size: 13pt;
+        background-color:transparent;
+        background-image: url("../images/background.jpeg");
+        padding: 15px;
+        margin: 0;
+    }
+    img {
+        width: 275px;
+        height: 183px;
+        border-radius: 8px;
+    }
+    .intro {
+        color:whitesmoke
+       
+    }
+    .btn-video-text {
+        background: rgba(255,255,255,.2) url("#") no-repeat 22px 12px;
+        color: #fff;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 40px;
+        padding: 18px 30px 16px 54px;
+        text-decoration: none;
+        border-radius: 50px;
+        -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.1);
+        box-shadow: 0 1px 0 rgba(255,255,255,.1);
+        transition: box-shadow .5s ease-out,-webkit-box-shadow .5s ease-out;
+        margin-left: 300px;
+    }
+    label {
+        color:azure;
+        margin-left: 150px;
+    }
+    .form-control {
+        width: 600px;
+        height: 50px;
+        margin-left: 150px;
+    }
+    b {
+        margin-top: 30px;
+    }
