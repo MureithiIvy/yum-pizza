@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery-3.4.1.js"></script>
+    <script src="js/scripts.js"></script>
+    <link rel="shortcut icon" href="images/icons.png">
+    <title> mobile Pizza</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 jumbotron">
+          <h1 style="color: forestgreen"align="center">Our Menu.</h1><hr>
+          <p align="center"><i>Hey there! Yes, you! Welcome to the Our Daily Mobile pizza. <br>
+             Please do place your  order in the allocated fields. <br>Always  at your service.</i>
+          </p>
+        </div>
+      </div>
+
+      
+        <h2 style="color: lawngreen">Pizza Size:</h2>
+        <form id="new-pizza">
+          <div class="radio">
+            <label>
+              <input type="radio" name="size" value="small" checked>
+              Small
+            </label>
+          </div>
+          <div class="radio">
+            <label>
+              <input type="radio" name="size" value="medium">
+              Medium
+            </label>
+          </div>
+          <div class="radio">
+            <label>
+              <input type="radio" name="size" value="large">
+              Large
+            </label>
+          </div>
+          <h2 style="color: lawngreen">Toppings</h2>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" name="topping" value="cheese" autocomplete=""checked>
+              Cheese
+            </label>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" name="topping" value="pepperoni">
+              Pepperoni
+            </label>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" name="topping" value="artichoke">
+              Artichoke
+            </label>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" name="topping" value="anchovy">
+              Anchovy
+            </label>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" name="topping" value="mushroom">
+              Mushroom
+            </label>
+          </div>
+          <div class="checkbox">
+            <label>
+              <input type="checkbox" name="topping" value="sausage">
+              Sausage
+            </label>
+          </div>
+          <h2 style="color: lawngreen">Crust:</h2>
+          <div class="checkbox">
+            <label for="">
+              <input type="checkbox" name="crust" value="crispy" checked>
+              Crispy
+            </label>
+          </div>
+          <div class="checkbox">
+            <label for="">
+              <input type="checkbox" name="crust" value="stuffed">
+              Stuffed
+            </label>
+          </div>
+          <div class="checkbox">
+           <label for="">
+             <input type="checkbox" name="crust" value="gluten-free">
+             Gluten-free
+           </label> 
+          </div>
+          <h2 style="color: lawngreen">Do you  want  pizza delivery service?</h2>
+          <div class="checkbox">
+            <label for="">
+              <input type="checkbox" name="yes" value="yes" checked>
+              Yes
+            </label>
+          </div>
+          <button type="submit" class="btn btn-success"> Checkout  Total Cost</button> 
+          <button type="submit" class="btn btn-success"> Add another Order Here!!</button>
+        </form>
+
+        <h2 style="color: lawngreen">Pizzas:</h2>
+        <ol style="color: lawngreen" id="pizzas">
+        </ol>
+        <h4 style="color: lawngreen" id="totalCost"></h4>
+      
+    </div>
+  </body>
+</html>
