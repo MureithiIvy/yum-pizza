@@ -43,7 +43,7 @@ $(document).ready(function() {
       var pizzaHtml = "<li><span class='pizza'>" + size
       newPizza.toppings.forEach(function(topping,) {pizzaHtml += (" "+topping)});
       $("ol#pizzas").append(pizzaHtml + " pizza - Ksh "+newPizza.price()+"</span></li>");
-      $("h4#totalCost").text("Total Cost:Ksh " + parseInt(totalCost))
+      $("h4#totalCost").text("Total Cost: Ksh " + parseInt(totalCost))
 
       $('input[type=checkbox]').each(function() {
         if (this.value === 'cheese') {
