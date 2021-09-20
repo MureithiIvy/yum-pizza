@@ -1,13 +1,13 @@
-# Project Name: Mobile-Pizza.
+# Project Name:Yum Pizza.
 #### Description: 
-**This  is  a pizza web  application that  is  meant  to enable  a  user  to order a pizza and has an option for delivery.Its just amazing.Do try it!**
+**This  is  a pizza web  application that  is  meant  to enable  a  user  to order a pizza and has an option for delivery. Its just amazing. Mind checking it out.**
 #### Developer:
-Nyakundi Lamech.
+Ivy Mureithi.
 
 
 **Just checkout  the  live  site  to  have  a glimpse;**
 
-![images.png](images/pizza1.jpg)
+![images.png](images/bg-img.jpg)
 
 
 ## Setup/Installation Requirements
