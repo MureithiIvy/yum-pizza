@@ -33,7 +33,7 @@ No bugs so far. Working clean.But can still be  hacked!!
 
 ## Support and contact details
 You can contact me via:
-Email: lamechongondi88@gmail.com
+[Email](ivymureithi@gmail.com)
 At your service.
 
 ### License
