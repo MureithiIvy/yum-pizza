@@ -22,6 +22,9 @@
         color:whitesmoke
        
     }
+    #butt{
+        margin-left: 60px;
+    }
     .btn-video-text {
         background: rgba(255,255,255,.2) url("#") no-repeat 22px 12px;
         color: #fff;

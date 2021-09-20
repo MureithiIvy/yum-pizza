@@ -62,7 +62,7 @@ $(document).ready(function() {
          if (this.value ==='yes') {
            this.checked = true;
            if (this.checked = true) {
-            alert ("delivery charges of Ksh 100 apply."); 
+            alert ("Your delivery service charge is Ksh 100."); 
             prompt ("Please enter your location here!");
             alert ("Your order will be  delivered to your  location.");
             callback ();
