@@ -10,7 +10,8 @@
         margin: 0;
     }
     .row1 {
-color: darkorange;
+         color: darkorange;
+         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     }
     img {
         width: 275px;
