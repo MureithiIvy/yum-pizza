@@ -5,7 +5,7 @@
 Ivy Mureithi.
 
 
-**Just checkout  the  live  site  to  have  a glimpse;**
+**Like what you see?**
 
 ![images.png](images/bg-img.jpg)
 
